@@ -21,8 +21,6 @@
 - It'll automatically take the screenshot of the region and convert it into numbers
 - It'll open an excel file and ask you to confirm if the detected numbers are correct , if not then change them and SAVE the file before CLOSING.
 - Then the program will solve the sudoko based on the number's in the excel file.
-  
-  <img src='https://github.com/MusadiqPasha/MonkeyType-BOT/blob/main/modes.png'>
 
 
 
