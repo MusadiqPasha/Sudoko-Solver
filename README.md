@@ -37,4 +37,4 @@ The Sudoko Solver is intended for educational purposes only. The authors and con
 
 ## Just follow me and Star ⭐ my repository 
 ## Thank You!!
-## Happy typing!
+## Happy Sudoking!
