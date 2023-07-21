@@ -1,0 +1,8 @@
+cv2
+numpy
+openpyxl
+pyautogui
+pytesseract
+easygui
+Pillow
+opencv-python
